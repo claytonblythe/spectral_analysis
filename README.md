@@ -2,6 +2,9 @@
 
 This is a program that creates nice pdf's analyzing the high harmonic generation produced by helium due to circularly polarized counterrotating laser fields. The fast fourier transform is done on the electron dipole moment's oscillation, and the polarization of the produced radiation is calculated as well.
 
+Simulations were done with the Varga group at the University of Vanderbilt, employing the Stochastic Variational Method and Density Functional Theory to approximate the wave function using correlated gaussians and a discrete number of points on a 3-D spatial grid. 
+
+
 # High Harmonic Generation with Circular Polarization
 ![Alt Test](https://github.com/claytonblythe/spectral_analysis/blob/master/spectra.png)
 
