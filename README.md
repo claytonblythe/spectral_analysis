@@ -4,3 +4,10 @@ This is a program that creates nice pdf's analyzing the high harmonic generation
 
 High Harmonic Generation, left and right hand polarized
 ![Alt Test](https://github.com/claytonblythe/spectral_analysis/blob/master/spectra.png)
+
+
+Attosecond bursts
+![Alt Test](https://github.com/claytonblythe/spectral_analysis/blob/master/attosecon_bursts.png)
+
+Ellipticity of bursts
+![Alt Test](https://github.com/claytonblythe/spectral_analysis/blob/master/ellipticity.png)
