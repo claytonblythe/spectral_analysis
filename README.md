@@ -8,6 +8,9 @@ Simulations were done with the Varga group at the University of Vanderbilt, empl
 # High Harmonic Generation with Circular Polarization
 ![Alt Test](https://github.com/claytonblythe/spectral_analysis/blob/master/spectra.png)
 
+# Electric Field (Laser) Component Periodicity
+![Alt Test](https://github.com/claytonblythe/spectral_analysis/blob/master/laser.png)
+
 # Overall Analysis of Dipole Moment Oscillation
 ![Alt Test](https://github.com/claytonblythe/spectral_analysis/blob/master/clay_long_sin_squared_multi_.43_first_and_fourth_.png)
 # Attosecond bursts
